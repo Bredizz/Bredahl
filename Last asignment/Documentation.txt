@@ -1,0 +1,16 @@
+
+Bygga en knapp som till början ska slumpmässigt välja färg var gång man laddar sidan, för att sedan till 90% välja den färg som är mest vald.
+Vi vill att information om knappen(Färg,klick,visningar) ska loggas i en fil.
+
+Moment:
+1. 
+
+
+
+
+
+
+
+
+
+
